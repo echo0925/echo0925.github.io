@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /assets/ada.css
+Disallow: /assets/bootstrap.min.css
+Sitemap: https://echo0925.github.io/sitemap.xml
